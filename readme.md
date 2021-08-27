@@ -14,7 +14,7 @@
 
 O NLW RocketQ é uma plataforma com várias salas para a realizar perguntas anônimas
 
-## 😶‍🌫️ Como executar
+## 😕 Como executar
 
 - Clone o repositório
 - Rode o "npm" para baixar as dependências
